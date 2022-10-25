@@ -34,29 +34,29 @@
     
     "betterstats.config.BSConfig.ENABLE_WIKI_LINKS": "เปิดใช้งานลิงก์ Wiki",
     "betterstats.config.BSConfig.ENABLE_WIKI_LINKS.tooltip": "เมื่อเปิดใช้งาน เมาส์กลางที่คลิกสถิติของรายการ\nจะนำคุณไปยังบทความ Wiki ของรายการนั้น หาก\nมีการกำหนดไว้อย่างใดอย่างหนึ่ง",
-    "betterstats.config.BSConfig.ENABLE_REI_LINKS": "Enable REI links",
-    "betterstats.config.BSConfig.ENABLE_REI_LINKS.tooltip": "When enabled, you will be able to left/right\nmouse click an item stat to open the REI\nscreen for the given item.\n\nRequires the REI mod to be installed.",
+    "betterstats.config.BSConfig.ENABLE_REI_LINKS": "เปิดใช้งานลิงก์ REI",
+    "betterstats.config.BSConfig.ENABLE_REI_LINKS.tooltip": "เมื่อเปิดใช้งาน คุณจะสามารถซ้าย/ขวาเมาส์คลิกสถิติรายการเพื่อเปิดหน้าจอ REI\nสำหรับรายการที่กำหนดต้องติดตั้งม็อด JEI",
 
     "betterstats.config.BSConfig.FILTER_HIDE_EMPTY_STATS": "ref=betterstats.gui.menu_item.hide_empty",
     "betterstats.config.BSConfig.FILTER_SHOW_ITEM_NAMES": "ref=betterstats.gui.menu_item.show_item_names",
 
-    "betterstats.config.BSConfig.COLOR_TOOLTIP_TEXT": "Tooltip text color",
-    "betterstats.config.BSConfig.COLOR_TOOLTIP_BG": "Tooltip background color",
-    "betterstats.config.BSConfig.COLOR_TOOLTIP_OUTLINE": "Tooltip outline color",
+    "betterstats.config.BSConfig.COLOR_TOOLTIP_TEXT": "สีข้อความคำแนะนำเครื่องมือ",
+    "betterstats.config.BSConfig.COLOR_TOOLTIP_BG": "สีพื้นหลังคำแนะนำเครื่องมือ",
+    "betterstats.config.BSConfig.COLOR_TOOLTIP_OUTLINE": "สีเค้าร่างคำแนะนำเครื่องมือ",
 
-    "betterstats.config.BSConfig.COLOR_CONTENTPANE_BG": "Tab background color",
-    "betterstats.config.BSConfig.COLOR_STAT_GENERAL_TEXT": "Statistic text color",
-    "betterstats.config.BSConfig.COLOR_STAT_BG": "Statistic background color",
-    "betterstats.config.BSConfig.COLOR_STAT_BG_ERRORED": "Errored stat. background color",
-    "betterstats.config.BSConfig.COLOR_STAT_BG_ERRORED.tooltip": "The stat. background color that will be used in\nthe event that something goes wrong while\nrendering a given statistic (mostly for mob stats).\n\nIf you set this color to the same color as\nCOLOR_STAT_BG, tooltips for stats will not\nshow any errors that occur (if they occur).",
-    "betterstats.config.BSConfig.COLOR_STAT_OUTLINE": "Statistic outline color",
-    "betterstats.config.BSConfig.COLOR_CATEGORY_NAME_NORMAL": "Category name color",
-    "betterstats.config.BSConfig.COLOR_CATEGORY_NAME_HIGHLIGHTED": "Highlighted category name color",
+    "betterstats.config.BSConfig.COLOR_CONTENTPANE_BG": "สีพื้นหลังของแท็บ",
+    "betterstats.config.BSConfig.COLOR_STAT_GENERAL_TEXT": "สีข้อความสถิติ",
+    "betterstats.config.BSConfig.COLOR_STAT_BG": "สีพื้นหลังสถิติ",
+    "betterstats.config.BSConfig.COLOR_STAT_BG_ERRORED": "สถานะผิดพลาด สีพื้นหลัง",
+    "betterstats.config.BSConfig.COLOR_STAT_BG_ERRORED.tooltip": "สถิติ สีพื้นหลังที่จะใช้ใน\nเหตุการณ์ที่เกิดข้อผิดพลาดขณะ\nแสดงสถิติที่กำหนด (ส่วนใหญ่สำหรับสถิติม็อบ)\n\nหากคุณตั้งค่าสีนี้เป็นสีเดียวกับ\nCOLOR_STAT_BG คำแนะนำเครื่องมือสำหรับสถิติจะไม่แสดง\nแสดง ข้อผิดพลาดใด ๆ ที่เกิดขึ้น (หากเกิดขึ้น)",
+    "betterstats.config.BSConfig.COLOR_STAT_OUTLINE": "สีเค้าร่างสถิติ",
+    "betterstats.config.BSConfig.COLOR_CATEGORY_NAME_NORMAL": "หมวดหมู่ชื่อสี",
+    "betterstats.config.BSConfig.COLOR_CATEGORY_NAME_HIGHLIGHTED": "ชื่อหมวดหมู่ที่เน้นสี",
 
-    "betterstats.config.BSConfig.DEBUG_SHOW_EVERYTHING": "Show everything (may lag)",
-    "betterstats.config.BSConfig.DEBUG_SHOW_EVERYTHING.tooltip": "Shows all statistics entries, regardless\nof their values.",
-    "betterstats.config.BSConfig.DEBUG_DINNERBONE_MODE": "Dinnerbone mode",
-    "betterstats.config.BSConfig.DEBUG_DINNERBONE_MODE.tooltip": "Mobs in mob statistics go upside-down.",
-    "betterstats.config.BSConfig.DEBUG_LOG_SCREEN_CHANGES": "Log Screen changes",
-    "betterstats.config.BSConfig.DEBUG_LOG_SCREEN_CHANGES.tooltip": "When enabled, MinecraftClient.setScreen(...)\ncalls will be logged."
+    "betterstats.config.BSConfig.DEBUG_SHOW_EVERYTHING": "แสดงทุกอย่าง (อาจล่าช้า)",
+    "betterstats.config.BSConfig.DEBUG_SHOW_EVERYTHING.tooltip": "แสดงรายการสถิติทั้งหมด โดยไม่คำนึงถึงค่าของค่าเหล่านั้น",
+    "betterstats.config.BSConfig.DEBUG_DINNERBONE_MODE": "โหมด Dinnerbone",
+    "betterstats.config.BSConfig.DEBUG_DINNERBONE_MODE.tooltip": "ม็อบในสถิติม็อบกลับหัวกลับหาง",
+    "betterstats.config.BSConfig.DEBUG_LOG_SCREEN_CHANGES": "การเปลี่ยนแปลงหน้าจอบันทึก",
+    "betterstats.config.BSConfig.DEBUG_LOG_SCREEN_CHANGES.tooltip": "เมื่อเปิดใช้งาน, MinecraftClient.setScreen(...)\nการโทรจะถูกบันทึก"
 }
