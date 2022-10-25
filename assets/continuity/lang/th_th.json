@@ -1,9 +1,9 @@
 {
-  "options.continuity.title": "Continuity Configuration",
-  "options.continuity.connected_textures": "Connected Textures",
-  "options.continuity.connected_textures.tooltip": "Enable or disable connected textures for blocks.",
-  "options.continuity.emissive_textures": "Emissive Textures",
-  "options.continuity.emissive_textures.tooltip": "Enable or disable emissive textures for block and item models.",
-  "options.continuity.custom_block_layers": "Custom Block Layers",
-  "options.continuity.custom_block_layers.tooltip": "Enable or disable custom block layers."
+  "options.continuity.title": "Continuity การกำหนดค่า",
+  "options.continuity.connected_textures": "พื้นผิวที่เชื่อมต่อ",
+  "options.continuity.connected_textures.tooltip": "เปิดหรือปิดพื้นผิวที่เชื่อมต่อสำหรับบล็อก",
+  "options.continuity.emissive_textures": "พื้นผิวเปล่งแสง",
+  "options.continuity.emissive_textures.tooltip": "เปิดหรือปิดพื้นผิวที่เปล่งแสงสำหรับโมเดลบล็อกและรายการ",
+  "options.continuity.custom_block_layers": "เลเยอร์บล็อกที่กำหนดเอง",
+  "options.continuity.custom_block_layers.tooltip": "เปิดหรือปิดเลเยอร์บล็อกที่กำหนดเอง"
 }
