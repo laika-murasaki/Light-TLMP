@@ -1,0 +1,26 @@
+{
+  "config.citresewn.title": "CIT Resewn การกำหนดค่า",
+  "config.citresewn.configure": "กำหนดค่า",
+
+  "config.citresewn.enabled.title": "เปิดใช้งาน",
+  "config.citresewn.enabled.tooltip": "ควร CIT Resewn โหลดและฉีด cits จาก resourcepacks",
+
+  "config.citresewn.mute_errors.title": "ปิดเสียงข้อผิดพลาดในการโหลด",
+  "config.citresewn.mute_errors.tooltip": "ควร CIT Resewn ไม่บันทึกข้อผิดพลาด cit",
+
+  "config.citresewn.mute_warns.title": "ปิดเสียงเตือนการโหลด",
+  "config.citresewn.mute_warns.tooltip": "ควร CIT Resewn ไม่ล็อกคำเตือน cit",
+
+  "config.citresewn.broken_paths.title": "อนุญาตเส้นทางที่เสียหายในคำเตือนของ resourcepacksit",
+  "config.citresewn.broken_paths.tooltip": "อนุญาตให้โหลดแพ็คที่มีเส้นทางทรัพยากรที่ไม่ถูกต้อง\nอาจทำให้เกิดปัญหาได้!",
+
+  "config.citresewn.cache_ms.title": "แคช",
+  "config.citresewn.cache_ms.tooltip": "ควรรีเฟรชแคช cit บ่อยเพียงใด\nค่าที่สูงกว่าจะให้ประสิทธิภาพมากกว่า\nค่าที่ต่ำกว่าจะทำให้อัปเดต cit เร็วขึ้น\nREALTIME จะลบแคชทั้งหมด\n ทำให้ไอเท็มตรวจสอบหา cit ทุกเฟรม",
+  "config.citresewn.cache_ms.ticks.0": "REALTIME",
+  "config.citresewn.cache_ms.ticks.1": "EVERY TICK",
+  "config.citresewn.cache_ms.ticks.any": "EVERY %s TICKS",
+
+
+  "pack.incompatible.broken_paths": "(มีเส้นทางหัก)",
+  "pack.incompatible.confirm.broken_paths": "ชุดนี้ประกอบด้วยเส้นทางที่เสียหายและการสนับสนุนอาจถูกยกเลิกในอนาคต ติดต่อผู้เขียนแพ็คเพื่อลบคำเตือนนี้ (~ CIT Resewn)"
+}
