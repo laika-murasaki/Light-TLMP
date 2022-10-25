@@ -1,11 +1,11 @@
 {
-  "options.capes.title": "Cape Options",
-  "options.capes.capetype": "Cape Type: %s",
-  "options.capes.optifineeditor": "OptiFine Cape Editor",
-  "options.capes.elytra": "Cape Texture on Elytra",
-  "options.capes.selector": "Cape Selector",
-  "options.capes.toggle": "Toggle",
-  "options.capes.other": "Other",
-  "options.capes.selector.elytra": "Toggle Elytra",
-  "options.capes.selector.player": "Toggle Player"
+  "options.capes.title": "ตัวเลือกผ้าคุม",
+  "options.capes.capetype": "ประเภทผ้าคุม: %s",
+  "options.capes.optifineeditor": "ตัวแก้ไขผ้าคุม OptiFine",
+  "options.capes.elytra": "ผ้าคุมในปีก",
+  "options.capes.selector": "เลือกผ้าคุม",
+  "options.capes.toggle": "เปิด",
+  "options.capes.other": "อื่่นๆ",
+  "options.capes.selector.elytra": "เปิด/ปิดปีก",
+  "options.capes.selector.player": "เปิด/ปิดผู้เล่น"
 }
