@@ -1,12 +1,12 @@
 {
-  "blur.midnightconfig.title": "Blur Config",
-  "blur.midnightconfig.blurExclusions": "Blur Exclusions",
-  "blur.midnightconfig.fadeTimeMillis": "Fade Time (in milliseconds)",
-  "blur.midnightconfig.ease": "Ease Animation",
-  "blur.midnightconfig.radius": "Radius",
-  "blur.midnightconfig.gradientStart": "Gradient Start Color",
-  "blur.midnightconfig.gradientEnd": "Gradient End Color",
-  "blur.midnightconfig.gradientStartAlpha": "Gradient Start Alpha",
-  "blur.midnightconfig.gradientEndAlpha": "Gradient End Alpha",
-  "blur.midnightconfig.showScreenTitle": "Show screen title"
+  "blur.midnightconfig.title": "กำหนดค่าเบลอ",
+  "blur.midnightconfig.blurExclusions": "การยกเว้นการเบลอ",
+  "blur.midnightconfig.fadeTimeMillis": "เวลาจาง (เป็นมิลลิวินาที)",
+  "blur.midnightconfig.ease": "แอนิเมชั่นหาย",
+  "blur.midnightconfig.radius": "รัศมี",
+  "blur.midnightconfig.gradientStart": "ไล่โทนสีเริ่มต้น",
+  "blur.midnightconfig.gradientEnd": "ไล่โทนสีสิ้นสุด",
+  "blur.midnightconfig.gradientStartAlpha": "ไล่โทนสีเริ่มต้นอัลฟ่า",
+  "blur.midnightconfig.gradientEndAlpha": "ไล่โทนสีสิ้นสุดอัลฟ่า",
+  "blur.midnightconfig.showScreenTitle": "แสดงในหน้าเมนูหลัก"
 }
