@@ -1,0 +1,9 @@
+{
+	"modmenu.descriptionTranslation.cem": "อนุญาตให้โหลดโมเดลที่กำหนดเองเข้าสู่เกมตามที่กำหนดโดยไฟล์ .jem และ .jpm ในรีซอร์สแพ็ค",
+	"config.cem.use_optifine_folder": "ใช้ \"assets/minecraft/optifine/cem\"?",
+	"config.cem.use_optifine_folder.description": "นี่จะโหลดโมเดล CEM จาก\nassets/minecraft/optifine/cem,\nซึ่งเป็นสิ่งที่ Optifine ทำ\nรีโหลดทรัพยากร (F3 + T) สำหรับ\nผลการเปลี่ยนแปลง",
+	"config.cem.use_new_model_creation_fix": "ใช้การแก้ไขการสร้างแบบจำลองหรือไม่",
+	"config.cem.use_new_model_creation_fix.description": "การทำเช่นนี้จะป้องกันไม่ให้มายคราฟ\nย้ายชิ้นส่วนโมเดลของคุณโดยตรง\nเมื่อทำแอนิเมชั่น สิ่งนี้ทำให้เสีย\na บางรุ่นแต่แก้ไขรุ่นอื่นๆ\nโปรดใช้หากเป็นไปได้\nโหลดทรัพยากรซ้ำ (F3 + T) เพื่อให้\nสิ่งนี้มีผล!",
+	"config.cem.use_old_animations": "ใช้แอนิเมชั่นที่เก่ากว่า?",
+	"config.cem.use_old_animations.description": "การดำเนินการนี้จะคืนค่าพฤติกรรมของแอนิเมชัน\nจากเวอร์ชัน CEM <=0.6.2 คุณอาจต้องการปิดสิ่งนี้"
+}
