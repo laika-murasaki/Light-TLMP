@@ -1,5 +1,5 @@
 {
-  "key.keyboard.control": "ควบคุม",
+  "key.keyboard.control": "Ctrl",
   "key.keyboard.alt": "Alt",
   "key.keyboard.shift": "Shift",
 
@@ -26,16 +26,16 @@
   "key.emi.cheat_one_to_cursor": "Cheat One to Cursor",
   "key.emi.cheat_stack_to_cursor": "Cheat Stack to Cursor",
 
-  "config.emi.group.general": "General",
+  "config.emi.group.general": "ทั่วไป",
   "config.emi.group.ui": "UI",
   "config.emi.group.binds": "Binds",
   "config.emi.group.dev": "Dev",
 
   "config.emi.group.ui.recipe-buttons": "Recipe Buttons",
-  "config.emi.group.binds.crafts": "Crafts",
+  "config.emi.group.binds.crafts": "คราฟ",
   "config.emi.group.binds.cheats": "Cheats",
 
-  "config.emi.general.enabled": "Enabled",
+  "config.emi.general.enabled": "เปิด",
   "config.emi.general.cheat_mode": "Cheat Mode",
 
   "config.emi.ui.move_effects": "Move Effects",
@@ -60,7 +60,7 @@
   "config.emi.dev.highlight_defaulted": "Highlight Defaulted",
   "config.emi.dev.highlight_exclusion_areas": "Highlight Exclusion Areas",
 
-  "emi.unit.liters": "Liters",
+  "emi.unit.liters": "ลิตร",
   "emi.unit.millibuckets": "Millibuckets",
   "emi.unit.droplets": "Droplets",
   "emi.fluid.amount.liters": "%s L",
@@ -71,14 +71,14 @@
   "emi.not_enough_ingredients": "Not enough ingredients to craft",
   "emi.too_small": "Crafting grid too small to fit ingredients",
   "emi.resolve": "Resolve recipe for this recipe tree",
-  "emi.page": "Page %s of %s",
+  "emi.page": "หน้า %s / %s",
   "emi.page.short": "%s/%s",
-  "emi.total_cost": "Total Cost",
-  "emi.cost_per": "Cost Per Batch",
-  "emi.leftovers": "Leftovers",
-  "emi.view_all_recipes": "View All Recipes",
-  "emi.tree_welcome": "Welcome to %s",
-  "emi.no_tree": "You haven't set a recipe tree to view yet...",
+  "emi.total_cost": "ค่าใช้จ่ายทั้งหมด",
+  "emi.cost_per": "ราคาต่อชุด",
+  "emi.leftovers": "ของเหลือ",
+  "emi.view_all_recipes": "ดูสูตรทั้งหมด",
+  "emi.tree_welcome": "ยินดีต้อนรับสู่ %s",
+  "emi.no_tree": "คุณยังไม่ได้ตั้งค่าแผนผังสูตรให้ดูเลย...",
   "emi.random_tree": "Perhaps you'd like to see a random one?",
   "emi.random_tree_input": "Press §6[ctrl + r]",
   "tooltip.emi.accepts": "Accepts:",
