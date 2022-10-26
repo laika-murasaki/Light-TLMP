@@ -1,14 +1,14 @@
 {
-  "config.dynamicfps.title": "Configure Dynamic FPS",
-  "config.dynamicfps.category.general": "General",
-  "config.dynamicfps.reduce_when_unfocused": "Reduce FPS when unfocused",
-  "config.dynamicfps.unfocused_fps": "Unfocused FPS target",
-  "config.dynamicfps.restore_when_hovered": "Restore FPS when hovered",
-  "config.dynamicfps.run_gc_on_unfocus": "Run GC on unfocus",
-  "config.dynamicfps.unfocused_volume": "Volume when unfocused (%)",
-  "config.dynamicfps.hidden_volume": "Volume when not visible (%)",
-  "key.dynamicfps.toggle_forced": "Force Reduced FPS (Toggle)",
-  "key.dynamicfps.toggle_disabled": "Disable Dynamic FPS (Toggle)",
-  "gui.dynamicfps.hud.reducing": "Dynamic FPS: Forcing Reduced FPS",
-  "gui.dynamicfps.hud.disabled": "Dynamic FPS Disabled"
+  "config.dynamicfps.title": "กำหนดค่า Dynamic FPS",
+  "config.dynamicfps.category.general": "ทั่วไป",
+  "config.dynamicfps.reduce_when_unfocused": "ลด FPS เมื่อไม่ได้โฟกัส",
+  "config.dynamicfps.unfocused_fps": "เป้าหมาย FPS ที่ไม่โฟกัส",
+  "config.dynamicfps.restore_when_hovered": "คืนค่า FPS เมื่อโฮเวอร์",
+  "config.dynamicfps.run_gc_on_unfocus": "เรียกใช้ GC เมื่อไม่ได้โฟกัส",
+  "config.dynamicfps.unfocused_volume": "ระดับเสียงเมื่อไม่ได้โฟกัส (%)",
+  "config.dynamicfps.hidden_volume": "ระดับเมื่อมองไม่เห็น (%)",
+  "key.dynamicfps.toggle_forced": "บังคับ FPS ที่ลดลง (สลับ)",
+  "key.dynamicfps.toggle_disabled": "ปิดใช้งาน Dynamic FPS (สลับ)",
+  "gui.dynamicfps.hud.reducing": "Dynamic FPS: บังคับ FPS ที่ลดลง",
+  "gui.dynamicfps.hud.disabled": "ปิดใช้งาน FPS แบบไดนามิก"
 }
