@@ -1,15 +1,15 @@
 {
-  "category.double_hotbar.keybinds": "Double Hotbar",
-  "key.double_hotbar.swap": "Swap Hotbars",
-  "text.autoconfig.double_hotbar.option.displayDoubleHotbar": "Show Second Hotbar",
-  "text.autoconfig.double_hotbar.option.inventoryRow": "Selected Inventory Row",
-  "text.autoconfig.double_hotbar.option.shift": "Vertical Position",
-  "text.autoconfig.double_hotbar.option.allowDoubleTap": "Enable Double Tap",
-  "text.autoconfig.double_hotbar.option.doubleTapWindow": "Double Tap Window (ms)",
-  "text.autoconfig.double_hotbar.option.holdToSwap": "Enable Hold to Swap",
-  "text.autoconfig.double_hotbar.option.holdTime": "Hold to Swap Time (ms)",
-  "text.autoconfig.double_hotbar.option.renderCrop": "Crop Hotbar Height (pixels)",
-  "text.autoconfig.double_hotbar.option.holdToSwapBar": "Hold to Swap Entire Bar",
-  "text.autoconfig.double_hotbar.option.reverseBars": "Main Hotbar On Top (Experimental)",
-  "text.autoconfig.double_hotbar.title":"Double Hotbar Config"
+  "category.double_hotbar.keybinds": "ฮ็อตบาร์สองชั้น",
+  "key.double_hotbar.swap": "สลับฮ็อตบาร์",
+  "text.autoconfig.double_hotbar.option.displayDoubleHotbar": "แสดง ฮ็อตบาร์ ที่สอง",
+  "text.autoconfig.double_hotbar.option.inventoryRow": "เลือกช่องเก็บของแบบเป็นแถว",
+  "text.autoconfig.double_hotbar.option.shift": "ตำแหน่งแนวตั้ง",
+  "text.autoconfig.double_hotbar.option.allowDoubleTap": "เปิดการเตะสองครั้ง",
+  "text.autoconfig.double_hotbar.option.doubleTapWindow": "หน้าต่างแตะสองครั้ง (มิลลิวินาที)",
+  "text.autoconfig.double_hotbar.option.holdToSwap": "เปิดใช้งาน Hold เพื่อสลับ",
+  "text.autoconfig.double_hotbar.option.holdTime": "กดค้างไว้เพื่อสลับเวลา (มิลลิวินาที)",
+  "text.autoconfig.double_hotbar.option.renderCrop": "ความสูงของแถบลัดครอบตัด (พิกเซล)",
+  "text.autoconfig.double_hotbar.option.holdToSwapBar": "กดค้างเพื่อสลับทั้งบาร์",
+  "text.autoconfig.double_hotbar.option.reverseBars": "แถบลัดหลักอยู่ด้านบน (ทดลอง)",
+  "text.autoconfig.double_hotbar.title":"การกำหนดค่า ฮ็อตบาร์สองชั้น"
 }
