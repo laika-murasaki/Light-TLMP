@@ -1,16 +1,16 @@
 {
-  "effective.subtitles.ambience.waterfall": "Water falls",
+  "effective.subtitles.ambience.waterfall": "น้ำตก",
 
-  "effective.midnightconfig.enableSplashes": "Enable splashes",
-  "effective.midnightconfig.splashRimAlpha": "Splash rim alpha",
-  "effective.midnightconfig.enableCascades": "Enable cascades",
-  "effective.midnightconfig.shouldFlowingWaterSpawnParticlesOnFirstTick": "Should flowing water spawn particles on first tick",
-  "effective.midnightconfig.lapisBlockUpdateParticleChance": "Lapis block update particle chance",
-  "effective.midnightconfig.cascadeSoundDistanceBlocks": "Distance to hear cascades [block(s)]",
-  "effective.midnightconfig.cascadeSoundsVolumeMultiplier": "Cascade sound volume multiplier",
-  "effective.midnightconfig.rainRippleDensity": "Rain ripples density",
-  "effective.midnightconfig.flowingWaterSplashingDesity": "Flowing water splashing density",
-  "effective.midnightconfig.enableGlowingPlankton": "Enable glowing plankton splashes and ripples in warm oceans at night",
-  "effective.midnightconfig.glowsquidHypnotize": "Enable glow squid hypnotizing",
-  "effective.midnightconfig.glowsquidHypnotizeAttractCursor": "Enable glow squid cursor attraction (requires glow squid hypnotizing)"
+  "effective.midnightconfig.enableSplashes": "เปิดใช้งานการกระเซ็น",
+  "effective.midnightconfig.splashRimAlpha": "ขอบกระเซ็นจาง",
+  "effective.midnightconfig.enableCascades": "เปิดใช้งานน้ำตก",
+  "effective.midnightconfig.shouldFlowingWaterSpawnParticlesOnFirstTick": "ควรจะไหลพาร์ติเคิลวางไข่บนเห็บแรก",
+  "effective.midnightconfig.lapisBlockUpdateParticleChance": "Lapis block อัพเดทโอกาสของพาร์ติเคิล",
+  "effective.midnightconfig.cascadeSoundDistanceBlocks": "ระยะทางที่ได้ยินเสียงน้ำตก [บล็อก(s)]",
+  "effective.midnightconfig.cascadeSoundsVolumeMultiplier": "ตัวคูณระดับเสียง น้ำตก",
+  "effective.midnightconfig.rainRippleDensity": "ฝนระลอกคลื่นความหนาแน่น",
+  "effective.midnightconfig.flowingWaterSplashingDesity": "น้ำไหลกระเซ็นหนาแน่น",
+  "effective.midnightconfig.enableGlowingPlankton": "ปล่อยแพลงก์ตอนเรืองแสงและระลอกคลื่นในมหาสมุทรที่อบอุ่นในเวลากลางคืน",
+  "effective.midnightconfig.glowsquidHypnotize": "เปิดใช้งานการสะกดจิตปลาหมึกเรืองแสง",
+  "effective.midnightconfig.glowsquidHypnotizeAttractCursor": "เปิดใช้งานการดึงดูดเคอร์เซอร์ปลาหมึกเรืองแสง (ต้องสะกดจิตปลาหมึกเรืองแสง)"
 }
