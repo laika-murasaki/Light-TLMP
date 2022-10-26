@@ -1,0 +1,13 @@
+{
+  "fabrishot.config.title": "Fabrishot",
+  "fabrishot.config.category": "การกำหนดค่าภาพหน้าจอ",
+  "fabrishot.config.custom_file_name": "ใช้รูปแบบชื่อไฟล์ที่แตกต่างกัน",
+  "fabrishot.config.custom_file_name.tooltip": "ใช้ %time% เป็นเวลา\n %world% สำหรับชื่อโลกหรือเซิร์ฟเวอร์",
+  "fabrishot.config.override_screenshot_key": "แทนที่ภาพหน้าจอปกติด้วย Fabrishot",
+  "fabrishot.config.save_file": "บันทึกไฟล์ภาพหน้าจอ",
+  "fabrishot.config.width": "ความกว้างของภาพหน้าจอ",
+  "fabrishot.config.height": "ความสูงของภาพหน้าจอ",
+  "fabrishot.config.delay": "จับภาพล่าช้า",
+  "fabrishot.config.delay.tooltip": "เฟรมที่รอหลังจากปรับขนาด ปรับแต่งเพื่อการเปิดรับแสงที่ดีขึ้นด้วยเฉดสี",
+  "key.fabrishot.screenshot": "จับภาพหน้าจอขนาดใหญ่"
+}
