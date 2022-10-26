@@ -1,13 +1,13 @@
 {
-  "smoothswapping.config.menu": "Smooth Swapping Config Menu",
-  "smoothswapping.config.general": "General",
-  "smoothswapping.config.option.animationspeed": "Animation Speed",
-  "smoothswapping.config.option.animationspeed.speed": "Speed",
-  "smoothswapping.config.option.ease": "Ease Animation Style",
-  "smoothswapping.config.option.ease.linear": "Linear",
-  "smoothswapping.config.option.ease.ease-in": "Ease-In",
-  "smoothswapping.config.option.ease.ease-out": "Ease-Out",
-  "smoothswapping.config.option.ease.ease-in-out": "Ease-In-Out",
-  "smoothswapping.config.option.easespeed": "Ease Animation Speed",
-  "smoothswapping.config.option.easespeed.speed": "Speed"
+  "smoothswapping.config.menu": "เมนูกำหนดค่าการสลับที่ราบรื่น",
+  "smoothswapping.config.general": "ทั่วไป",
+  "smoothswapping.config.option.animationspeed": "ความเร็วของแอนิเมชั่น",
+  "smoothswapping.config.option.animationspeed.speed": "ความเร็ว",
+  "smoothswapping.config.option.ease": "สไตล์แอนิเมชั่นหาย",
+  "smoothswapping.config.option.ease.linear": "เชิงเส้น",
+  "smoothswapping.config.option.ease.ease-in": "หายเข้า",
+  "smoothswapping.config.option.ease.ease-out": "หายออก",
+  "smoothswapping.config.option.ease.ease-in-out": "หายเข้าออก",
+  "smoothswapping.config.option.easespeed": "ความเร็วของแอนิเมชั่นที่หาย",
+  "smoothswapping.config.option.easespeed.speed": "ความเร็ว"
 }
